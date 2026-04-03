@@ -220,7 +220,7 @@ const Purpose = () => {
               className="bg-white p-4 rounded-[3rem] shadow-2xl relative z-10 border border-slate-100 overflow-hidden"
             >
               <img 
-                src="input_file_2.png" 
+                src="biorender.png" 
                 alt="LLPS Condensate Platform Diagram" 
                 className="w-full h-auto rounded-[2rem]"
               />
@@ -518,7 +518,7 @@ const Footer = () => {
         <div className="grid lg:grid-cols-4 gap-12 mb-20">
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-8">
-              <img src="input_file_0.png" alt="CondenSense Logo" className="h-10 w-auto" />
+              <img src="logo2.png" alt="CondenSense Logo" className="h-10 w-auto" />
             </div>
             <p className="text-slate-400 max-w-md leading-relaxed mb-8">
               An LLPS-Based Fluorescent Biosensor for Early-Stage Pharmaceutical Toxicity Detection. iGEM 2026 project by University of Edinburgh students.
