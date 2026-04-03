@@ -32,7 +32,7 @@ const Navbar = () => {
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? "glass py-3 shadow-sm" : "bg-transparent py-6"}`}>
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <a href="#" className="flex items-center gap-3 group">
-          <img src="input_file_0.png" alt="CondenSense Logo" className="h-10 w-auto group-hover:scale-110 transition-transform" />
+          <img src="logo2.png" alt="CondenSense Logo" className="h-10 w-auto group-hover:scale-110 transition-transform" />
         </a>
         
         <div className="hidden md:flex items-center gap-8">
@@ -108,7 +108,7 @@ const Hero = () => {
           <div className="relative z-10 bg-white p-2 rounded-[2.5rem] shadow-2xl border border-slate-100 overflow-hidden group">
             <div className="aspect-square rounded-[2rem] bg-white flex items-center justify-center relative overflow-hidden">
               <video 
-                src="input_file_1.mp4" 
+                src="logo-animation.mp4" 
                 autoPlay 
                 loop 
                 muted 
